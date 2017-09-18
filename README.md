@@ -10,9 +10,9 @@ Google Places API demo app
 
 Nama : A.Anugrah Deni Dewanta
 
-Kelas : XI RPL 4
+Kelas : XII RPL 2
 
-No.Absen : 06
+No.Absen : 04
 
 Angkatan : 24
 
